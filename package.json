@@ -1,0 +1,6 @@
+{
+  "name": "Salifukayta",
+  "dependencies": {
+    "jquery-toast-plugin": "^1.3.1"
+  }
+}
